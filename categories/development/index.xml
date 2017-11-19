@@ -3,7 +3,7 @@
   <channel>
       <title>Development on This is my blog... </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://example.org/categories/development/index.xml</link>
+    <link>https://jakab922.github.io/blog/categories/development/index.xml</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>stuff</title>
-      <link>http://example.org/post/stuff/</link>
+      <link>https://jakab922.github.io/blog/post/stuff/</link>
       <pubDate>Sun, 19 Nov 2017 20:54:59 CET</pubDate>
       
-      <guid>http://example.org/post/stuff/</guid>
+      <guid>https://jakab922.github.io/blog/post/stuff/</guid>
       <description></description>
     </item>
     
